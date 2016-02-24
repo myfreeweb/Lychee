@@ -1,0 +1,21 @@
+{
+	"untitled": "Sin Título",
+	"cancel": "Cancelar",
+	"close": "Cerrar",
+	"title": "Título",
+	"description": "Descripción",
+	"tags": "Etiquetas",
+	"delPhotos": "Borrar {NUM_PHOTOS, plural, one {Foto} other {Fotos}}",
+	"keepPhotos": "Mantener {NUM_PHOTOS, plural, one {Foto} other {Fotos}}",
+	"delPhotosAreYouSure": "¿Estás seguro de que quieres borrar {NUM_PHOTOS, plural, one {la foto '{PHOTO_TITLE}'} other {las # fotos seleccionadas}}?<br>¡Esta acción no se puede deshacer!",
+	"setTitle": "Establecer Título",
+	"setTitles": "Establecer {NUM_PHOTOS, plural, one {Título} other {Títulos}}",
+	"setTitlesEnter": "Introduccir un nuevo título para {NUM_ALBUMS, plural, one {esta foto} other {las # fotos seleccionadas}}",
+	"pubAlbum": "Álbum Público",
+	"pubAlbumInfo": "Esta foto se encuentra en un álbum público. Para hacer esta foto privada o pública, edita la visibilidad del álbum asociado.",
+	"showAlbum": "Mostrar Álbum",
+	"setDesc": "Establecer Descripción",
+	"setDescEnter": "Introduce una descripción para esta foto",
+	"setTags": "Establecer Etiquetas",
+	"setTagsEnter": "Introduce las etiquetas para {NUM_PHOTOS, plural, one {esta foto.} other {las # fotos seleccionadas. Las etiquetas existentes serán sobrescritas.}} Puedes añadir varias etiquetas separándolas con una coma"
+}

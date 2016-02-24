@@ -1,0 +1,7 @@
+{
+	"unsorted": "Desordanadas",
+	"starred": "Favoritas",
+	"public": "Público",
+	"recent": "Recientes",
+	"photos": "{NUM_PHOTOS, plural, one {foto} other {# fotos}}"
+}
